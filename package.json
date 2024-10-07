@@ -4,6 +4,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "fastify": "^4.25.2"
+    "fastify": "^4.25.2",
+        "sqlite3": "^5.1.7"
+
   }
 }
